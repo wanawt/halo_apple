@@ -11,13 +11,13 @@
 
 # 详情请参考：https://halo.run/develop/theme.html#theme-yaml
 
-id: ruibaby_quickstarter
-name: QuickStarter
+id: ItsAppleTheme
+name: ItsAppleTheme
 author:
-  name: Ryan Wang
-  website: https://ryanc.cc
-description: Quick starter theme for halo
+  name: Zhang Weifan
+  website: https://zhangweifan.com
+description: itsapple theme
 logo:
-website: https://github.com/halo-dev/halo-theme-quick-starter
-repo: https://github.com/halo-dev/halo-theme-quick-starter
+website: https://github.com/wanawt/halo_apple
+repo: https://github.com/wanawt/halo_apple
 version: 1.0
